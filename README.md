@@ -21,6 +21,11 @@ Welcome to my portfolio! This repository showcases my skills in SQL and Data Sci
 - **Skills Used:** SQL (indexing, query tuning, EXPLAIN plans).
 - **Outcome:** Improved query efficiency by 50%, reducing execution time for large datasets.
 
+### 4. [Supply Chain Optimization Dashboard](https://github.com/DanteLegends/SQL-Data-Science-Portfolio/tree/main/PROYECTO_4_FINAL_IMPORTANTE_GRADUACION)
+- **Description:** Developed an interactive Tableau dashboard to optimize supply chain operations by analyzing inventory levels, supplier performance, and delivery timelines. This project involved integrating multiple datasets and creating dynamic visualizations to support decision-making.
+- **Skills Used:** Tableau (dashboard creation, calculated fields), SQL (data extraction, joins), Excel (data cleaning, preprocessing).
+- **Outcome:** Enabled stakeholders to identify bottlenecks and optimize inventory turnover, reducing costs by 15% in simulated scenarios.
+
 ---
 
 ## 💡 Key Skills Demonstrated
