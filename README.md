@@ -6,17 +6,17 @@ Welcome to my portfolio! This repository showcases my skills in SQL and Data Sci
 
 ## 📁 Projects
 
-### 1. [Sales Data Analysis](https://github.com/DanteLegends/SQL-Data-Science-Portfolio/tree/main/PROYECTO_2_flights_septiembre)
+### 1. [Sales Data Analysis](https://github.com/DanteLegends/SQL-Data-Science-Portfolio/tree/main/Sales_Data_Analysis)
 - **Description:** In this project, I performed a comprehensive analysis of sales data to identify key performance trends and customer behavior. The project includes the use of **JOINS**, **CTEs**, and **aggregations**.
 - **Skills Used:** SQL (joins, subqueries, window functions), Data Aggregation, Data Cleaning.
 - **Outcome:** Identified top-performing products and seasonal sales trends.
 
-### 2. [Customer Segmentation with SQL](https://github.com/DanteLegends/SQL-Data-Science-Portfolio/tree/main/PROYECTO_3_FUNNEL)
+### 2. [Customer Segmentation with SQL](https://github.com/DanteLegends/SQL-Data-Science-Portfolio/tree/main/Customer_Segmentation_with_SQL)
 - **Description:** Segmentation of customer data using SQL to identify different customer groups based on purchasing habits and frequency. This project involved complex **groupings** and **partitioning**.
 - **Skills Used:** SQL (group by, partitioning, ranking), Data Analysis.
 - **Outcome:** Categorized customers into segments for targeted marketing strategies.
 
-### 3. [Go Blox Analysis](https://github.com/DanteLegends/SQL-Data-Science-Portfolio/tree/main/PROYECTO_1_GRADUACION)
+### 3. [Go Blox Analysis](https://github.com/DanteLegends/SQL-Data-Science-Portfolio/tree/main/Go_Blox_Analysis)
 - **Description:** Focused on improving query performance by optimizing **indexing strategies**, and **query execution plans**. Demonstrates proficiency in optimizing large datasets.
 - **Skills Used:** SQL (indexing, query tuning, EXPLAIN plans).
 - **Outcome:** Improved query efficiency by 50%, reducing execution time for large datasets.
