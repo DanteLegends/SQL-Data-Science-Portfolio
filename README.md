@@ -11,16 +11,21 @@ Welcome to my portfolio! This repository showcases my skills in SQL and Data Sci
 - **Skills Used:** SQL (joins, subqueries, window functions), Data Aggregation, Data Cleaning.
 - **Outcome:** Identified top-performing products and seasonal sales trends.
 
+![FLIGHT BOOKED BY GENDER AND AGE](https://github.com/DanteLegends/SQL-Data-Science-Portfolio/blob/main/Sales_Data_Analysis/IMAGENES_ANALISIS/FLIGHT_BOOKED_BY_GENDER_AND_AGE.png)
+
 ### 2. [Customer Segmentation with SQL](https://github.com/DanteLegends/SQL-Data-Science-Portfolio/tree/main/Customer_Segmentation_with_SQL)
 - **Description:** Segmentation of customer data using SQL to identify different customer groups based on purchasing habits and frequency. This project involved complex **groupings** and **partitioning**.
 - **Skills Used:** SQL (group by, partitioning, ranking), Data Analysis.
 - **Outcome:** Categorized customers into segments for targeted marketing strategies.
+
+![FUNNEL COMPLETE](https://github.com/DanteLegends/SQL-Data-Science-Portfolio/blob/main/Customer_Segmentation_with_SQL/Images/FUNNEL_COMPLETE.png)
 
 ### 3. [Go Blox Analysis](https://github.com/DanteLegends/SQL-Data-Science-Portfolio/tree/main/Go_Blox_Analysis)
 - **Description:** Focused on improving query performance by optimizing **indexing strategies**, and **query execution plans**. Demonstrates proficiency in optimizing large datasets.
 - **Skills Used:** SQL (indexing, query tuning, EXPLAIN plans).
 - **Outcome:** Improved query efficiency by 50%, reducing execution time for large datasets.
 
+![AB test](https://github.com/DanteLegends/SQL-Data-Science-Portfolio/blob/main/Go_Blox_Analysis/Imagenes_proyecto/AB%20test.png)
 ---
 
 ## 💡 Key Skills Demonstrated
